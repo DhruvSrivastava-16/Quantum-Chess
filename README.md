@@ -26,4 +26,4 @@ Move : (Piece) (current position) (next position) (type of move)
 {without whitespaces}
 
 
-Game ends when King is captured.
+Game ends when King is captured
